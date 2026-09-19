@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![CLI](https://img.shields.io/badge/Interface-CLI-green)
 ![Converter](https://img.shields.io/badge/Project-Converter-orange)
-![Beginner](https://img.shields.io/badge/Level-Beginner-purple)
+![Multi--Purpose](https://img.shields.io/badge/Type-Multi--Purpose-purple)
 
 </div>
 
